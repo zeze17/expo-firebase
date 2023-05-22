@@ -193,7 +193,7 @@ export default function App() {
 
     <TextInput
         style={styles.input}
-        placeholder="Teléfono"
+        placeholder="empty space "
         onChangeText={(text) => setPhone(text)}
         value={phone}
       />
